@@ -1,4 +1,4 @@
-### Olá! Eu me chamo Breno Santos, sou estudante de ciência da computação!  
+### Olá! Eu me chamo Breno Santos, atualmente sou graduando de ciência da computação!  
 
 <div align="center">
   <a href = "https://github.com/BrenoSantoss">
