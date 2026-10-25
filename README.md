@@ -12,37 +12,6 @@ Crio ferramentas web que resolvem problemas reais do dia a dia da operação.
 
 ---
 
-### 🚀 Projeto em destaque
-
-<table>
-<tr>
-<td width="55%">
-
-**Escala Operacional**
-<br>
-Sistema web de escala 12x36 para postos de portaria, usado na operação real:
-
-- Painel do dia: quem está em cada posto, alertas de posto descoberto
-- Escala do mês por **Equipe A/B** e turno **diurno/noturno**
-- Registro de faltas, atestados, férias, permutas e coberturas
-- Relatórios para fechamento da **folha de ponto** em PDF e Excel
-- Atualização ao vivo, login de editor por e-mail e versão para celular
-
-**Stack:** HTML · CSS · JavaScript · Supabase (PostgreSQL + RLS) · Vercel
-
-</td>
-<td width="45%" align="center">
-
-<a href="https://escala-operacional-azure.vercel.app">
-  <img src="https://img.shields.io/badge/Abrir_o_app-1F3A93?style=for-the-badge&logo=vercel&logoColor=white" alt="Abrir o app">
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
 ### 🛠️ Tecnologias
 
 <p>
